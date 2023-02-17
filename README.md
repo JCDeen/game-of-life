@@ -1,8 +1,8 @@
 # Game of Life
 
-# NOTES: JCDeen
-#   Hacked the main code a bit to get the screen colors #defines more logically laid out.
-#   Will be updating here soon with code that cross compiles on Visual Studio to Raspberry Pi.
+NOTES: JCDeen
+   Hacked the main code a bit to get the screen colors #defines more logically laid out.
+   Will be updating here soon with code that cross compiles on Visual Studio to Raspberry Pi.
 
 C++ implementation of Conway's Game of Life.
 Also known simply as Life, is a cellular automaton devised by the British mathematician John Horton Conway in 1970.
